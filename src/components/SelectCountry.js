@@ -11,8 +11,8 @@ function SelectCountry() {
                 </Dropdown.Toggle>
 
                 <Dropdown.Menu>
-                    <Dropdown.Item href="#/action-1">US</Dropdown.Item>
-                    <Dropdown.Item href="#/action-2">CA</Dropdown.Item>
+                    <Dropdown.Item href="#/US">US</Dropdown.Item>
+                    <Dropdown.Item href="#/CA">CA</Dropdown.Item>
                 </Dropdown.Menu>
             </Dropdown>
         </>
